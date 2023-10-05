@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend App developer from India</h3>
 
-- 🔭 I’m currently working on [yash clothes website](yash clothes website)
+- 🔭 I’m currently working on (clothes website)
 
 - 🌱 I’m currently learning **react , ml**
 
