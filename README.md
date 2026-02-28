@@ -1,18 +1,101 @@
-<h1 align="center">Hi 👋, I'm yash</h1>
-<h3 align="center">A passionate frontend App developer from India</h3>
+<h1 align="center">Hi 👋, I'm Yash Gondaliya</h1>
+<h3 align="center">🚀 DevOps & Cloud Engineering Enthusiast | Python & Django Developer</h3>
 
-- 🔭 I’m currently working on (clothes website)
-
-- 🌱 I’m currently learning **react , ml**
-
-- 💬 Ask me about **java, python, html, CSS, js**
-
-- 📫 How to reach me **yashgondaliya0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/yash_.2802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_.2802" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/yashgondaliya">
+    <img src="https://komarev.com/ghpvc/?username=yashgondaliya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+🎓 Bachelor's in Information Technology  
+☁️ Passionate about DevOps, Cloud Infrastructure & Automation  
+🔭 Currently building Cloud & CI/CD based projects  
+🌱 Learning: AWS | Kubernetes | Terraform | Advanced Linux  
+💬 Ask me about Python, Django, DevOps & Cloud  
+📫 Email: yashgondaliya0@gmail.com  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming & Frameworks
+- Python
+- Django
+- HTML5
+- CSS3
+
+### ☁️ Cloud & DevOps Tools
+- AWS (EC2, S3, IAM, VPC)
+- Docker
+- Kubernetes
+- Jenkins
+- GitLab CI/CD
+- Ansible
+- Terraform
+- Linux
+
+### 🗄 Databases & Monitoring
+- PostgreSQL
+- Redis
+- Prometheus
+- Grafana
+- Elasticsearch
+
+---
+
+## 🚀 DevOps Projects
+
+### 🔹 CI/CD Pipeline using Jenkins & Docker
+- Automated build & deployment
+- Integrated GitHub Webhooks
+- Dockerized application
+
+### 🔹 AWS Deployment Project
+- Deployed Django app on EC2
+- Configured Nginx + Gunicorn
+- Setup security groups & IAM roles
+
+### 🔹 Kubernetes Deployment
+- Containerized app
+- Created deployment & service YAML files
+- Implemented scaling & rolling updates
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgondaliya&theme=github-dark" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashgondaliya&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgondaliya&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/yashgondaliya" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/yash_.2802" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+📧 yashgondaliya0@gmail.com  
+
+---
+
+⭐ *Focused on building scalable, automated and cloud-native systems.*
